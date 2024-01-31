@@ -1,0 +1,20 @@
+.my-node-container {
+    background-color: #ffffff;
+    color: #111111;
+    cursor: default;
+    border: 1px solid #2774f1;
+    border-radius: 5px;
+    padding: 10px;
+    /* max-width: 200px; */
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    white-space: nowrap;
+  }
+  
+  .my-node-container:hover {
+    background-color: #2774f1;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  

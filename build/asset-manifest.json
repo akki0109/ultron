@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fef50323.css",
+    "main.js": "/static/js/main.d31c74ff.js",
+    "static/js/787.d1fc0826.chunk.js": "/static/js/787.d1fc0826.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.69f7c8174ef9a3ed4dfc.jpg",
+    "static/media/PlusJakartaSans-Medium.ttf": "/static/media/PlusJakartaSans-Medium.b1ea1e4a874b401f584a.ttf",
+    "static/media/PlusJakartaSans-Regular.ttf": "/static/media/PlusJakartaSans-Regular.e959ca27c856c771bc26.ttf",
+    "static/media/PlusJakartaSans-SemiBold.ttf": "/static/media/PlusJakartaSans-SemiBold.adad8543ff9863da9569.ttf",
+    "static/media/PlusJakartaSans-Bold.ttf": "/static/media/PlusJakartaSans-Bold.fea436026c7ab9d46e14.ttf",
+    "static/media/thumb-up-fill.png": "/static/media/thumb-up-fill.aee0a5d490cb3ac4dc46.png",
+    "static/media/pending.png": "/static/media/pending.38cf4cc117ba26ae576c.png",
+    "static/media/thumb-up.png": "/static/media/thumb-up.e1ca393e3eba6d27c7ad.png",
+    "static/media/chosen-sprite.png": "/static/media/chosen-sprite.ac029005f7a39f8713b3.png",
+    "static/media/search_icon.png": "/static/media/search_icon.90e00a4d6e5a399ec7b7.png",
+    "static/media/Bell.png": "/static/media/Bell.6f1330d09271d00f0535.png",
+    "static/media/employes.png": "/static/media/employes.ec6eecbf19f3f592d489.png",
+    "static/media/emp_img1.jpg": "/static/media/emp_img1.eb56fb22b04e9bfc2a38.jpg",
+    "static/media/pdf.png": "/static/media/pdf.b7fc6752c80d1031cd6c.png",
+    "static/media/logo.jpg": "/static/media/logo.482fef22e6bbed6c4984.jpg",
+    "static/media/work_anniverysary1.png": "/static/media/work_anniverysary1.2f6b67a03446a58936ca.png",
+    "static/media/logo.svg": "/static/media/logo.68ac99383d163a09d61ddd54f3280357.svg",
+    "index.html": "/index.html",
+    "main.fef50323.css.map": "/static/css/main.fef50323.css.map",
+    "main.d31c74ff.js.map": "/static/js/main.d31c74ff.js.map",
+    "787.d1fc0826.chunk.js.map": "/static/js/787.d1fc0826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef50323.css",
+    "static/js/main.d31c74ff.js"
+  ]
+}

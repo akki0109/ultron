@@ -1,0 +1,281 @@
+{
+    "type": "show",
+    "version": "1.1",
+    "name": "head",
+    "children": [
+        {
+            "type": "show",
+            "version": "1.1",
+            "name": "1",
+            "root-id": 1,
+            "children": [
+                {
+                    "type": "show",
+                    "version": "1.1",
+                    "name": "11",
+                    "root-id": 2
+                },
+                {
+                    "type": "show",
+                    "version": "1.1",
+                    "name": "12",
+                    "root-id": 2
+                },
+                {
+                    "type": "show",
+                    "version": "1.1",
+                    "name": "13",
+                    "root-id": 2,
+                    "children": [
+                        {
+                            "type": "show",
+                            "version": "1.1",
+                            "name": "131",
+                            "root-id": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "show",
+                    "version": "1.1",
+                    "name": "14",
+                    "root-id": 2,
+                    "children": [
+                        {
+                            "type": "show",
+                            "version": "1.1",
+                            "name": "141",
+                            "root-id": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "show",
+                    "version": "1.1",
+                    "name": "15",
+                    "root-id": 2,
+                    "children": [
+                        {
+                            "type": "show",
+                            "version": "1.1",
+                            "name": "151",
+                            "root-id": 3,
+                            "children": [
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "1511",
+                                    "root-id": 4,
+                                    "children": [
+                                        {
+                                            "type": "show",
+                                            "version": "1.1",
+                                            "name": "15111",
+                                            "root-id": 5
+                                        },
+                                        {
+                                            "type": "show",
+                                            "version": "1.1",
+                                            "name": "15112",
+                                            "root-id": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "1512",
+                                    "root-id": 4,
+                                    "children": [
+                                        {
+                                            "type": "show",
+                                            "version": "1.1",
+                                            "name": "15121",
+                                            "root-id": 5
+                                        },
+                                        {
+                                            "type": "show",
+                                            "version": "1.1",
+                                            "name": "15122",
+                                            "root-id": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "1513",
+                                    "root-id": 4,
+                                    "children": [
+                                        {
+                                            "type": "show",
+                                            "version": "1.1",
+                                            "name": "15131",
+                                            "root-id": 5
+                                        },
+                                        {
+                                            "type": "show",
+                                            "version": "1.1",
+                                            "name": "15132",
+                                            "root-id": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "1514",
+                                    "root-id": 4,
+                                    "children": [
+                                        {
+                                            "type": "show",
+                                            "version": "1.1",
+                                            "name": "15141",
+                                            "root-id": 5
+                                        },
+                                        {
+                                            "type": "show",
+                                            "version": "1.1",
+                                            "name": "15142",
+                                            "root-id": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "show",
+            "version": "1.1",
+            "name": "2",
+            "root-id": 1
+        },
+        {
+            "type": "show",
+            "version": "1.1",
+            "name": "3",
+            "root-id": 1,
+            "children": [
+                {
+                    "type": "show",
+                    "version": "1.1",
+                    "name": "31",
+                    "root-id": 2
+                }
+            ]
+        },
+        {
+            "type": "show",
+            "version": "1.1",
+            "name": "4",
+            "root-id": 1,
+            "children": [
+                {
+                    "type": "show",
+                    "version": "1.1",
+                    "name": "41",
+                    "root-id": 2
+                }
+            ]
+        },
+        {
+            "type": "show",
+            "version": "1.1",
+            "name": "5",
+            "root-id": 1,
+            "children": [
+                {
+                    "type": "show",
+                    "version": "1.1",
+                    "name": "51",
+                    "root-id": 2,
+                    "children": [
+                        {
+                            "type": "show",
+                            "version": "1.1",
+                            "name": "511",
+                            "root-id": 3,
+                            "children": [
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "5111",
+                                    "root-id": 4
+                                },
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "5112",
+                                    "root-id": 4
+                                }
+                            ]
+                        },
+                        {
+                            "type": "show",
+                            "version": "1.1",
+                            "name": "512",
+                            "root-id": 3,
+                            "children": [
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "5121",
+                                    "root-id": 4
+                                },
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "5122",
+                                    "root-id": 4
+                                }
+                            ]
+                        },
+                        {
+                            "type": "show",
+                            "version": "1.1",
+                            "name": "513",
+                            "root-id": 3,
+                            "children": [
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "5131",
+                                    "root-id": 4
+                                },
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "5132",
+                                    "root-id": 4
+                                }
+                            ]
+                        },
+                        {
+                            "type": "show",
+                            "version": "1.1",
+                            "name": "514",
+                            "root-id": 3,
+                            "children": [
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "5141",
+                                    "root-id": 3
+                                },
+                                {
+                                    "type": "show",
+                                    "version": "1.1",
+                                    "name": "5142",
+                                    "root-id": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
